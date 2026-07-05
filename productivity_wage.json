@@ -1,0 +1,1562 @@
+[
+  {
+    "Year": "1948q1",
+    "Productivity": 100,
+    "Pay": 100
+  },
+  {
+    "Year": "1948q2",
+    "Productivity": 101.2,
+    "Pay": 100.8
+  },
+  {
+    "Year": "1948q3",
+    "Productivity": 100.8,
+    "Pay": 100.8
+  },
+  {
+    "Year": "1948q4",
+    "Productivity": 102.7,
+    "Pay": 103.1
+  },
+  {
+    "Year": "1949q1",
+    "Productivity": 102.2,
+    "Pay": 105.4
+  },
+  {
+    "Year": "1949q2",
+    "Productivity": 101.3,
+    "Pay": 106.6
+  },
+  {
+    "Year": "1949q3",
+    "Productivity": 104.7,
+    "Pay": 109
+  },
+  {
+    "Year": "1949q4",
+    "Productivity": 104.7,
+    "Pay": 110.3
+  },
+  {
+    "Year": "1950q1",
+    "Productivity": 108.9,
+    "Pay": 111.8
+  },
+  {
+    "Year": "1950q2",
+    "Productivity": 110.1,
+    "Pay": 112.4
+  },
+  {
+    "Year": "1950q3",
+    "Productivity": 112.1,
+    "Pay": 111.7
+  },
+  {
+    "Year": "1950q4",
+    "Productivity": 112.9,
+    "Pay": 112.1
+  },
+  {
+    "Year": "1951q1",
+    "Productivity": 111.5,
+    "Pay": 110.2
+  },
+  {
+    "Year": "1951q2",
+    "Productivity": 111.6,
+    "Pay": 111.2
+  },
+  {
+    "Year": "1951q3",
+    "Productivity": 114.4,
+    "Pay": 113.5
+  },
+  {
+    "Year": "1951q4",
+    "Productivity": 114.3,
+    "Pay": 113.7
+  },
+  {
+    "Year": "1952q1",
+    "Productivity": 114.3,
+    "Pay": 114.4
+  },
+  {
+    "Year": "1952q2",
+    "Productivity": 114.9,
+    "Pay": 115.8
+  },
+  {
+    "Year": "1952q3",
+    "Productivity": 115.3,
+    "Pay": 115.8
+  },
+  {
+    "Year": "1952q4",
+    "Productivity": 117.5,
+    "Pay": 117.3
+  },
+  {
+    "Year": "1953q1",
+    "Productivity": 119.9,
+    "Pay": 119.6
+  },
+  {
+    "Year": "1953q2",
+    "Productivity": 120.5,
+    "Pay": 120.6
+  },
+  {
+    "Year": "1953q3",
+    "Productivity": 120.2,
+    "Pay": 121.8
+  },
+  {
+    "Year": "1953q4",
+    "Productivity": 119.7,
+    "Pay": 122.6
+  },
+  {
+    "Year": "1954q1",
+    "Productivity": 120.3,
+    "Pay": 123.7
+  },
+  {
+    "Year": "1954q2",
+    "Productivity": 121.8,
+    "Pay": 124.5
+  },
+  {
+    "Year": "1954q3",
+    "Productivity": 123.7,
+    "Pay": 125.3
+  },
+  {
+    "Year": "1954q4",
+    "Productivity": 126.8,
+    "Pay": 127.8
+  },
+  {
+    "Year": "1955q1",
+    "Productivity": 128.8,
+    "Pay": 128.4
+  },
+  {
+    "Year": "1955q2",
+    "Productivity": 131.2,
+    "Pay": 130.2
+  },
+  {
+    "Year": "1955q3",
+    "Productivity": 131.3,
+    "Pay": 130.6
+  },
+  {
+    "Year": "1955q4",
+    "Productivity": 131.8,
+    "Pay": 132.3
+  },
+  {
+    "Year": "1956q1",
+    "Productivity": 132.4,
+    "Pay": 134.2
+  },
+  {
+    "Year": "1956q2",
+    "Productivity": 132.3,
+    "Pay": 134.5
+  },
+  {
+    "Year": "1956q3",
+    "Productivity": 132.3,
+    "Pay": 134.8
+  },
+  {
+    "Year": "1956q4",
+    "Productivity": 134.3,
+    "Pay": 135.8
+  },
+  {
+    "Year": "1957q1",
+    "Productivity": 135.9,
+    "Pay": 136.4
+  },
+  {
+    "Year": "1957q2",
+    "Productivity": 136,
+    "Pay": 137.5
+  },
+  {
+    "Year": "1957q3",
+    "Productivity": 136.4,
+    "Pay": 137.9
+  },
+  {
+    "Year": "1957q4",
+    "Productivity": 136.5,
+    "Pay": 138.5
+  },
+  {
+    "Year": "1958q1",
+    "Productivity": 135,
+    "Pay": 137.5
+  },
+  {
+    "Year": "1958q2",
+    "Productivity": 136.3,
+    "Pay": 138
+  },
+  {
+    "Year": "1958q3",
+    "Productivity": 139.6,
+    "Pay": 138.8
+  },
+  {
+    "Year": "1958q4",
+    "Productivity": 141.9,
+    "Pay": 140
+  },
+  {
+    "Year": "1959q1",
+    "Productivity": 143.4,
+    "Pay": 142
+  },
+  {
+    "Year": "1959q2",
+    "Productivity": 144.2,
+    "Pay": 143
+  },
+  {
+    "Year": "1959q3",
+    "Productivity": 144.5,
+    "Pay": 142.8
+  },
+  {
+    "Year": "1959q4",
+    "Productivity": 144.5,
+    "Pay": 143.3
+  },
+  {
+    "Year": "1960q1",
+    "Productivity": 148,
+    "Pay": 144.3
+  },
+  {
+    "Year": "1960q2",
+    "Productivity": 145.9,
+    "Pay": 145.6
+  },
+  {
+    "Year": "1960q3",
+    "Productivity": 146.2,
+    "Pay": 146.2
+  },
+  {
+    "Year": "1960q4",
+    "Productivity": 144.9,
+    "Pay": 146.5
+  },
+  {
+    "Year": "1961q1",
+    "Productivity": 146.6,
+    "Pay": 147.6
+  },
+  {
+    "Year": "1961q2",
+    "Productivity": 151.1,
+    "Pay": 148.4
+  },
+  {
+    "Year": "1961q3",
+    "Productivity": 152.8,
+    "Pay": 148.5
+  },
+  {
+    "Year": "1961q4",
+    "Productivity": 153.8,
+    "Pay": 149.1
+  },
+  {
+    "Year": "1962q1",
+    "Productivity": 155.7,
+    "Pay": 151
+  },
+  {
+    "Year": "1962q2",
+    "Productivity": 155.6,
+    "Pay": 151.6
+  },
+  {
+    "Year": "1962q3",
+    "Productivity": 157.4,
+    "Pay": 152.3
+  },
+  {
+    "Year": "1962q4",
+    "Productivity": 158.9,
+    "Pay": 153.3
+  },
+  {
+    "Year": "1963q1",
+    "Productivity": 160.7,
+    "Pay": 154.7
+  },
+  {
+    "Year": "1963q2",
+    "Productivity": 161.8,
+    "Pay": 155.8
+  },
+  {
+    "Year": "1963q3",
+    "Productivity": 163.8,
+    "Pay": 155.3
+  },
+  {
+    "Year": "1963q4",
+    "Productivity": 165.4,
+    "Pay": 157.2
+  },
+  {
+    "Year": "1964q1",
+    "Productivity": 167.4,
+    "Pay": 158
+  },
+  {
+    "Year": "1964q2",
+    "Productivity": 167,
+    "Pay": 158.6
+  },
+  {
+    "Year": "1964q3",
+    "Productivity": 169.6,
+    "Pay": 160.3
+  },
+  {
+    "Year": "1964q4",
+    "Productivity": 168.7,
+    "Pay": 160.4
+  },
+  {
+    "Year": "1965q1",
+    "Productivity": 171.1,
+    "Pay": 161.6
+  },
+  {
+    "Year": "1965q2",
+    "Productivity": 171.4,
+    "Pay": 162.4
+  },
+  {
+    "Year": "1965q3",
+    "Productivity": 175,
+    "Pay": 163.1
+  },
+  {
+    "Year": "1965q4",
+    "Productivity": 178.5,
+    "Pay": 164.8
+  },
+  {
+    "Year": "1966q1",
+    "Productivity": 179.3,
+    "Pay": 165.1
+  },
+  {
+    "Year": "1966q2",
+    "Productivity": 178.2,
+    "Pay": 165.4
+  },
+  {
+    "Year": "1966q3",
+    "Productivity": 178.7,
+    "Pay": 165.6
+  },
+  {
+    "Year": "1966q4",
+    "Productivity": 179.4,
+    "Pay": 165.7
+  },
+  {
+    "Year": "1967q1",
+    "Productivity": 180.1,
+    "Pay": 166.8
+  },
+  {
+    "Year": "1967q2",
+    "Productivity": 181.7,
+    "Pay": 168.5
+  },
+  {
+    "Year": "1967q3",
+    "Productivity": 181.5,
+    "Pay": 168.7
+  },
+  {
+    "Year": "1967q4",
+    "Productivity": 182.3,
+    "Pay": 169.2
+  },
+  {
+    "Year": "1968q1",
+    "Productivity": 186.3,
+    "Pay": 170.6
+  },
+  {
+    "Year": "1968q2",
+    "Productivity": 187.6,
+    "Pay": 171.1
+  },
+  {
+    "Year": "1968q3",
+    "Productivity": 187.9,
+    "Pay": 172.2
+  },
+  {
+    "Year": "1968q4",
+    "Productivity": 188,
+    "Pay": 172.9
+  },
+  {
+    "Year": "1969q1",
+    "Productivity": 189.7,
+    "Pay": 175.1
+  },
+  {
+    "Year": "1969q2",
+    "Productivity": 188.8,
+    "Pay": 175.1
+  },
+  {
+    "Year": "1969q3",
+    "Productivity": 190.4,
+    "Pay": 176.2
+  },
+  {
+    "Year": "1969q4",
+    "Productivity": 189.6,
+    "Pay": 177.2
+  },
+  {
+    "Year": "1970q1",
+    "Productivity": 190.1,
+    "Pay": 176.4
+  },
+  {
+    "Year": "1970q2",
+    "Productivity": 191.9,
+    "Pay": 176.8
+  },
+  {
+    "Year": "1970q3",
+    "Productivity": 195.3,
+    "Pay": 178.6
+  },
+  {
+    "Year": "1970q4",
+    "Productivity": 193.9,
+    "Pay": 178.9
+  },
+  {
+    "Year": "1971q1",
+    "Productivity": 200,
+    "Pay": 181.1
+  },
+  {
+    "Year": "1971q2",
+    "Productivity": 200.8,
+    "Pay": 182.1
+  },
+  {
+    "Year": "1971q3",
+    "Productivity": 203.2,
+    "Pay": 183.5
+  },
+  {
+    "Year": "1971q4",
+    "Productivity": 202.6,
+    "Pay": 184.9
+  },
+  {
+    "Year": "1972q1",
+    "Productivity": 204.7,
+    "Pay": 189.6
+  },
+  {
+    "Year": "1972q2",
+    "Productivity": 209.2,
+    "Pay": 191.6
+  },
+  {
+    "Year": "1972q3",
+    "Productivity": 211,
+    "Pay": 193.1
+  },
+  {
+    "Year": "1972q4",
+    "Productivity": 213.7,
+    "Pay": 193.9
+  },
+  {
+    "Year": "1973q1",
+    "Productivity": 214.8,
+    "Pay": 193.8
+  },
+  {
+    "Year": "1973q2",
+    "Productivity": 213.8,
+    "Pay": 192.1
+  },
+  {
+    "Year": "1973q3",
+    "Productivity": 211.4,
+    "Pay": 191.6
+  },
+  {
+    "Year": "1973q4",
+    "Productivity": 211.8,
+    "Pay": 189.9
+  },
+  {
+    "Year": "1974q1",
+    "Productivity": 207.3,
+    "Pay": 188.1
+  },
+  {
+    "Year": "1974q2",
+    "Productivity": 207.8,
+    "Pay": 187.6
+  },
+  {
+    "Year": "1974q3",
+    "Productivity": 206,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1974q4",
+    "Productivity": 207,
+    "Pay": 186.6
+  },
+  {
+    "Year": "1975q1",
+    "Productivity": 209.3,
+    "Pay": 186.9
+  },
+  {
+    "Year": "1975q2",
+    "Productivity": 212.2,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1975q3",
+    "Productivity": 214.3,
+    "Pay": 186.9
+  },
+  {
+    "Year": "1975q4",
+    "Productivity": 214.7,
+    "Pay": 186.6
+  },
+  {
+    "Year": "1976q1",
+    "Productivity": 216.6,
+    "Pay": 187.3
+  },
+  {
+    "Year": "1976q2",
+    "Productivity": 218.1,
+    "Pay": 188.7
+  },
+  {
+    "Year": "1976q3",
+    "Productivity": 218.1,
+    "Pay": 189.9
+  },
+  {
+    "Year": "1976q4",
+    "Productivity": 218.6,
+    "Pay": 190.7
+  },
+  {
+    "Year": "1977q1",
+    "Productivity": 219.4,
+    "Pay": 191.5
+  },
+  {
+    "Year": "1977q2",
+    "Productivity": 218.6,
+    "Pay": 191.8
+  },
+  {
+    "Year": "1977q3",
+    "Productivity": 221.1,
+    "Pay": 193.1
+  },
+  {
+    "Year": "1977q4",
+    "Productivity": 220.3,
+    "Pay": 193.5
+  },
+  {
+    "Year": "1978q1",
+    "Productivity": 219.5,
+    "Pay": 195
+  },
+  {
+    "Year": "1978q2",
+    "Productivity": 222.7,
+    "Pay": 195
+  },
+  {
+    "Year": "1978q3",
+    "Productivity": 222.5,
+    "Pay": 194.8
+  },
+  {
+    "Year": "1978q4",
+    "Productivity": 224,
+    "Pay": 195.4
+  },
+  {
+    "Year": "1979q1",
+    "Productivity": 221.7,
+    "Pay": 195.1
+  },
+  {
+    "Year": "1979q2",
+    "Productivity": 220.7,
+    "Pay": 193
+  },
+  {
+    "Year": "1979q3",
+    "Productivity": 218.9,
+    "Pay": 192.2
+  },
+  {
+    "Year": "1979q4",
+    "Productivity": 216.8,
+    "Pay": 190.7
+  },
+  {
+    "Year": "1980q1",
+    "Productivity": 215.7,
+    "Pay": 188.3
+  },
+  {
+    "Year": "1980q2",
+    "Productivity": 212.9,
+    "Pay": 188.2
+  },
+  {
+    "Year": "1980q3",
+    "Productivity": 212.8,
+    "Pay": 187.9
+  },
+  {
+    "Year": "1980q4",
+    "Productivity": 214.7,
+    "Pay": 187.7
+  },
+  {
+    "Year": "1981q1",
+    "Productivity": 217.9,
+    "Pay": 186.8
+  },
+  {
+    "Year": "1981q2",
+    "Productivity": 216.8,
+    "Pay": 187.3
+  },
+  {
+    "Year": "1981q3",
+    "Productivity": 219.2,
+    "Pay": 187.2
+  },
+  {
+    "Year": "1981q4",
+    "Productivity": 216,
+    "Pay": 186.5
+  },
+  {
+    "Year": "1982q1",
+    "Productivity": 215.4,
+    "Pay": 187.3
+  },
+  {
+    "Year": "1982q2",
+    "Productivity": 215.1,
+    "Pay": 187.8
+  },
+  {
+    "Year": "1982q3",
+    "Productivity": 214.9,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1982q4",
+    "Productivity": 215.9,
+    "Pay": 187.1
+  },
+  {
+    "Year": "1983q1",
+    "Productivity": 218.7,
+    "Pay": 189.2
+  },
+  {
+    "Year": "1983q2",
+    "Productivity": 221.7,
+    "Pay": 188.9
+  },
+  {
+    "Year": "1983q3",
+    "Productivity": 223,
+    "Pay": 188.6
+  },
+  {
+    "Year": "1983q4",
+    "Productivity": 225.2,
+    "Pay": 188.5
+  },
+  {
+    "Year": "1984q1",
+    "Productivity": 225.5,
+    "Pay": 188
+  },
+  {
+    "Year": "1984q2",
+    "Productivity": 226.9,
+    "Pay": 187.7
+  },
+  {
+    "Year": "1984q3",
+    "Productivity": 228.2,
+    "Pay": 187.6
+  },
+  {
+    "Year": "1984q4",
+    "Productivity": 228.7,
+    "Pay": 187.4
+  },
+  {
+    "Year": "1985q1",
+    "Productivity": 229.9,
+    "Pay": 187.2
+  },
+  {
+    "Year": "1985q2",
+    "Productivity": 229.9,
+    "Pay": 187.3
+  },
+  {
+    "Year": "1985q3",
+    "Productivity": 232.5,
+    "Pay": 187.6
+  },
+  {
+    "Year": "1985q4",
+    "Productivity": 232.3,
+    "Pay": 187.2
+  },
+  {
+    "Year": "1986q1",
+    "Productivity": 234.2,
+    "Pay": 187.4
+  },
+  {
+    "Year": "1986q2",
+    "Productivity": 237.1,
+    "Pay": 189.4
+  },
+  {
+    "Year": "1986q3",
+    "Productivity": 237.9,
+    "Pay": 189.4
+  },
+  {
+    "Year": "1986q4",
+    "Productivity": 236.7,
+    "Pay": 189.3
+  },
+  {
+    "Year": "1987q1",
+    "Productivity": 234.5,
+    "Pay": 187.8
+  },
+  {
+    "Year": "1987q2",
+    "Productivity": 235.2,
+    "Pay": 187
+  },
+  {
+    "Year": "1987q3",
+    "Productivity": 235.1,
+    "Pay": 186.4
+  },
+  {
+    "Year": "1987q4",
+    "Productivity": 237,
+    "Pay": 186.4
+  },
+  {
+    "Year": "1988q1",
+    "Productivity": 237.6,
+    "Pay": 186.3
+  },
+  {
+    "Year": "1988q2",
+    "Productivity": 238,
+    "Pay": 186.4
+  },
+  {
+    "Year": "1988q3",
+    "Productivity": 239,
+    "Pay": 186.1
+  },
+  {
+    "Year": "1988q4",
+    "Productivity": 239.6,
+    "Pay": 186.7
+  },
+  {
+    "Year": "1989q1",
+    "Productivity": 239.7,
+    "Pay": 186.8
+  },
+  {
+    "Year": "1989q2",
+    "Productivity": 239.8,
+    "Pay": 186
+  },
+  {
+    "Year": "1989q3",
+    "Productivity": 240.8,
+    "Pay": 186.6
+  },
+  {
+    "Year": "1989q4",
+    "Productivity": 240.4,
+    "Pay": 187.1
+  },
+  {
+    "Year": "1990q1",
+    "Productivity": 241.6,
+    "Pay": 186.8
+  },
+  {
+    "Year": "1990q2",
+    "Productivity": 243.5,
+    "Pay": 186.6
+  },
+  {
+    "Year": "1990q3",
+    "Productivity": 241.7,
+    "Pay": 184.9
+  },
+  {
+    "Year": "1990q4",
+    "Productivity": 237.7,
+    "Pay": 183.8
+  },
+  {
+    "Year": "1991q1",
+    "Productivity": 238.9,
+    "Pay": 184.5
+  },
+  {
+    "Year": "1991q2",
+    "Productivity": 242.7,
+    "Pay": 185.7
+  },
+  {
+    "Year": "1991q3",
+    "Productivity": 244.3,
+    "Pay": 186.2
+  },
+  {
+    "Year": "1991q4",
+    "Productivity": 245.1,
+    "Pay": 186.4
+  },
+  {
+    "Year": "1992q1",
+    "Productivity": 249,
+    "Pay": 186.7
+  },
+  {
+    "Year": "1992q2",
+    "Productivity": 250.9,
+    "Pay": 187.4
+  },
+  {
+    "Year": "1992q3",
+    "Productivity": 253.5,
+    "Pay": 187.7
+  },
+  {
+    "Year": "1992q4",
+    "Productivity": 254.6,
+    "Pay": 187
+  },
+  {
+    "Year": "1993q1",
+    "Productivity": 253.4,
+    "Pay": 188.3
+  },
+  {
+    "Year": "1993q2",
+    "Productivity": 252,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1993q3",
+    "Productivity": 252.8,
+    "Pay": 187.7
+  },
+  {
+    "Year": "1993q4",
+    "Productivity": 254.5,
+    "Pay": 187.8
+  },
+  {
+    "Year": "1994q1",
+    "Productivity": 255.6,
+    "Pay": 188.8
+  },
+  {
+    "Year": "1994q2",
+    "Productivity": 255.1,
+    "Pay": 188.2
+  },
+  {
+    "Year": "1994q3",
+    "Productivity": 253.8,
+    "Pay": 188
+  },
+  {
+    "Year": "1994q4",
+    "Productivity": 256.3,
+    "Pay": 188.2
+  },
+  {
+    "Year": "1995q1",
+    "Productivity": 255,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1995q2",
+    "Productivity": 255,
+    "Pay": 187.2
+  },
+  {
+    "Year": "1995q3",
+    "Productivity": 255,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1995q4",
+    "Productivity": 256.8,
+    "Pay": 187.8
+  },
+  {
+    "Year": "1996q1",
+    "Productivity": 258.3,
+    "Pay": 187.6
+  },
+  {
+    "Year": "1996q2",
+    "Productivity": 259.1,
+    "Pay": 187.5
+  },
+  {
+    "Year": "1996q3",
+    "Productivity": 259,
+    "Pay": 188.1
+  },
+  {
+    "Year": "1996q4",
+    "Productivity": 258.9,
+    "Pay": 187.9
+  },
+  {
+    "Year": "1997q1",
+    "Productivity": 259.3,
+    "Pay": 188.3
+  },
+  {
+    "Year": "1997q2",
+    "Productivity": 262.2,
+    "Pay": 189.4
+  },
+  {
+    "Year": "1997q3",
+    "Productivity": 264.4,
+    "Pay": 190.4
+  },
+  {
+    "Year": "1997q4",
+    "Productivity": 264.9,
+    "Pay": 191.6
+  },
+  {
+    "Year": "1998q1",
+    "Productivity": 265.7,
+    "Pay": 192.9
+  },
+  {
+    "Year": "1998q2",
+    "Productivity": 266.3,
+    "Pay": 194.3
+  },
+  {
+    "Year": "1998q3",
+    "Productivity": 269.5,
+    "Pay": 195
+  },
+  {
+    "Year": "1998q4",
+    "Productivity": 270.9,
+    "Pay": 195.8
+  },
+  {
+    "Year": "1999q1",
+    "Productivity": 273.8,
+    "Pay": 196.9
+  },
+  {
+    "Year": "1999q2",
+    "Productivity": 272.4,
+    "Pay": 197.2
+  },
+  {
+    "Year": "1999q3",
+    "Productivity": 273.8,
+    "Pay": 197.7
+  },
+  {
+    "Year": "1999q4",
+    "Productivity": 276.3,
+    "Pay": 198
+  },
+  {
+    "Year": "2000q1",
+    "Productivity": 273.2,
+    "Pay": 196.9
+  },
+  {
+    "Year": "2000q2",
+    "Productivity": 277.9,
+    "Pay": 198.1
+  },
+  {
+    "Year": "2000q3",
+    "Productivity": 277.8,
+    "Pay": 198.4
+  },
+  {
+    "Year": "2000q4",
+    "Productivity": 280.7,
+    "Pay": 200
+  },
+  {
+    "Year": "2001q1",
+    "Productivity": 278.4,
+    "Pay": 200.4
+  },
+  {
+    "Year": "2001q2",
+    "Productivity": 281.7,
+    "Pay": 201.6
+  },
+  {
+    "Year": "2001q3",
+    "Productivity": 282.2,
+    "Pay": 202.9
+  },
+  {
+    "Year": "2001q4",
+    "Productivity": 285.8,
+    "Pay": 205
+  },
+  {
+    "Year": "2002q1",
+    "Productivity": 290.7,
+    "Pay": 206.3
+  },
+  {
+    "Year": "2002q2",
+    "Productivity": 290.5,
+    "Pay": 206.3
+  },
+  {
+    "Year": "2002q3",
+    "Productivity": 292,
+    "Pay": 207.5
+  },
+  {
+    "Year": "2002q4",
+    "Productivity": 292.4,
+    "Pay": 209.1
+  },
+  {
+    "Year": "2003q1",
+    "Productivity": 294.2,
+    "Pay": 209.2
+  },
+  {
+    "Year": "2003q2",
+    "Productivity": 299.9,
+    "Pay": 210.6
+  },
+  {
+    "Year": "2003q3",
+    "Productivity": 304,
+    "Pay": 210.4
+  },
+  {
+    "Year": "2003q4",
+    "Productivity": 307.3,
+    "Pay": 210
+  },
+  {
+    "Year": "2004q1",
+    "Productivity": 307.3,
+    "Pay": 210
+  },
+  {
+    "Year": "2004q2",
+    "Productivity": 309.9,
+    "Pay": 209.8
+  },
+  {
+    "Year": "2004q3",
+    "Productivity": 311.6,
+    "Pay": 210
+  },
+  {
+    "Year": "2004q4",
+    "Productivity": 312.8,
+    "Pay": 209.3
+  },
+  {
+    "Year": "2005q1",
+    "Productivity": 316.2,
+    "Pay": 210.2
+  },
+  {
+    "Year": "2005q2",
+    "Productivity": 316.7,
+    "Pay": 210.5
+  },
+  {
+    "Year": "2005q3",
+    "Productivity": 315.9,
+    "Pay": 209.1
+  },
+  {
+    "Year": "2005q4",
+    "Productivity": 316.7,
+    "Pay": 209
+  },
+  {
+    "Year": "2006q1",
+    "Productivity": 319.1,
+    "Pay": 209.6
+  },
+  {
+    "Year": "2006q2",
+    "Productivity": 318.4,
+    "Pay": 210.1
+  },
+  {
+    "Year": "2006q3",
+    "Productivity": 316.6,
+    "Pay": 210
+  },
+  {
+    "Year": "2006q4",
+    "Productivity": 319.8,
+    "Pay": 212.6
+  },
+  {
+    "Year": "2007q1",
+    "Productivity": 321.4,
+    "Pay": 212.5
+  },
+  {
+    "Year": "2007q2",
+    "Productivity": 321.3,
+    "Pay": 212.9
+  },
+  {
+    "Year": "2007q3",
+    "Productivity": 323.2,
+    "Pay": 213.7
+  },
+  {
+    "Year": "2007q4",
+    "Productivity": 322.7,
+    "Pay": 212.7
+  },
+  {
+    "Year": "2008q1",
+    "Productivity": 319.2,
+    "Pay": 212.6
+  },
+  {
+    "Year": "2008q2",
+    "Productivity": 319.3,
+    "Pay": 212.2
+  },
+  {
+    "Year": "2008q3",
+    "Productivity": 316.9,
+    "Pay": 211
+  },
+  {
+    "Year": "2008q4",
+    "Productivity": 321.9,
+    "Pay": 217.6
+  },
+  {
+    "Year": "2009q1",
+    "Productivity": 327.4,
+    "Pay": 222.4
+  },
+  {
+    "Year": "2009q2",
+    "Productivity": 331.1,
+    "Pay": 222.5
+  },
+  {
+    "Year": "2009q3",
+    "Productivity": 333.7,
+    "Pay": 222.1
+  },
+  {
+    "Year": "2009q4",
+    "Productivity": 337.1,
+    "Pay": 222.1
+  },
+  {
+    "Year": "2010q1",
+    "Productivity": 338.7,
+    "Pay": 224
+  },
+  {
+    "Year": "2010q2",
+    "Productivity": 340.6,
+    "Pay": 224.9
+  },
+  {
+    "Year": "2010q3",
+    "Productivity": 344.6,
+    "Pay": 225.2
+  },
+  {
+    "Year": "2010q4",
+    "Productivity": 344.7,
+    "Pay": 224.8
+  },
+  {
+    "Year": "2011q1",
+    "Productivity": 341,
+    "Pay": 223.7
+  },
+  {
+    "Year": "2011q2",
+    "Productivity": 339.1,
+    "Pay": 222.1
+  },
+  {
+    "Year": "2011q3",
+    "Productivity": 338.2,
+    "Pay": 221.3
+  },
+  {
+    "Year": "2011q4",
+    "Productivity": 338.6,
+    "Pay": 221.4
+  },
+  {
+    "Year": "2012q1",
+    "Productivity": 340.1,
+    "Pay": 219.9
+  },
+  {
+    "Year": "2012q2",
+    "Productivity": 341.9,
+    "Pay": 220.4
+  },
+  {
+    "Year": "2012q3",
+    "Productivity": 339.9,
+    "Pay": 220.6
+  },
+  {
+    "Year": "2012q4",
+    "Productivity": 339.6,
+    "Pay": 219.8
+  },
+  {
+    "Year": "2013q1",
+    "Productivity": 342.4,
+    "Pay": 221.4
+  },
+  {
+    "Year": "2013q2",
+    "Productivity": 343.5,
+    "Pay": 223.1
+  },
+  {
+    "Year": "2013q3",
+    "Productivity": 344.8,
+    "Pay": 223.5
+  },
+  {
+    "Year": "2013q4",
+    "Productivity": 347,
+    "Pay": 224
+  },
+  {
+    "Year": "2014q1",
+    "Productivity": 344.2,
+    "Pay": 223.7
+  },
+  {
+    "Year": "2014q2",
+    "Productivity": 345.9,
+    "Pay": 223.5
+  },
+  {
+    "Year": "2014q3",
+    "Productivity": 349,
+    "Pay": 223.9
+  },
+  {
+    "Year": "2014q4",
+    "Productivity": 348.5,
+    "Pay": 225.2
+  },
+  {
+    "Year": "2015q1",
+    "Productivity": 352.1,
+    "Pay": 228.1
+  },
+  {
+    "Year": "2015q2",
+    "Productivity": 353.7,
+    "Pay": 227.8
+  },
+  {
+    "Year": "2015q3",
+    "Productivity": 354.7,
+    "Pay": 228.2
+  },
+  {
+    "Year": "2015q4",
+    "Productivity": 353.6,
+    "Pay": 229.9
+  },
+  {
+    "Year": "2016q1",
+    "Productivity": 354.6,
+    "Pay": 231.5
+  },
+  {
+    "Year": "2016q2",
+    "Productivity": 354.4,
+    "Pay": 231.1
+  },
+  {
+    "Year": "2016q3",
+    "Productivity": 355.4,
+    "Pay": 231.5
+  },
+  {
+    "Year": "2016q4",
+    "Productivity": 357.9,
+    "Pay": 231.4
+  },
+  {
+    "Year": "2017q1",
+    "Productivity": 357.8,
+    "Pay": 231.2
+  },
+  {
+    "Year": "2017q2",
+    "Productivity": 357.9,
+    "Pay": 232.4
+  },
+  {
+    "Year": "2017q3",
+    "Productivity": 361.4,
+    "Pay": 233.2
+  },
+  {
+    "Year": "2017q4",
+    "Productivity": 362.7,
+    "Pay": 232.8
+  },
+  {
+    "Year": "2018q1",
+    "Productivity": 364,
+    "Pay": 233.2
+  },
+  {
+    "Year": "2018q2",
+    "Productivity": 364.5,
+    "Pay": 234.1
+  },
+  {
+    "Year": "2018q3",
+    "Productivity": 365.5,
+    "Pay": 235.2
+  },
+  {
+    "Year": "2018q4",
+    "Productivity": 365.2,
+    "Pay": 236.7
+  },
+  {
+    "Year": "2019q1",
+    "Productivity": 367.3,
+    "Pay": 237.7
+  },
+  {
+    "Year": "2019q2",
+    "Productivity": 368.8,
+    "Pay": 238.3
+  },
+  {
+    "Year": "2019q3",
+    "Productivity": 372.1,
+    "Pay": 239.6
+  },
+  {
+    "Year": "2019q4",
+    "Productivity": 374.1,
+    "Pay": 240
+  },
+  {
+    "Year": "2020q1",
+    "Productivity": 373.2,
+    "Pay": 241
+  },
+  {
+    "Year": "2020q2",
+    "Productivity": 386.3,
+    "Pay": 253.7
+  },
+  {
+    "Year": "2020q3",
+    "Productivity": 392.8,
+    "Pay": 248.3
+  },
+  {
+    "Year": "2020q4",
+    "Productivity": 389.9,
+    "Pay": 248
+  },
+  {
+    "Year": "2021q1",
+    "Productivity": 394.5,
+    "Pay": 248.4
+  },
+  {
+    "Year": "2021q2",
+    "Productivity": 396.3,
+    "Pay": 247.7
+  },
+  {
+    "Year": "2021q3",
+    "Productivity": 394.9,
+    "Pay": 247.5
+  },
+  {
+    "Year": "2021q4",
+    "Productivity": 395.8,
+    "Pay": 246.1
+  },
+  {
+    "Year": "2022q1",
+    "Productivity": 391.6,
+    "Pay": 244.3
+  },
+  {
+    "Year": "2022q2",
+    "Productivity": 389.4,
+    "Pay": 242
+  },
+  {
+    "Year": "2022q3",
+    "Productivity": 388.8,
+    "Pay": 241.9
+  },
+  {
+    "Year": "2022q4",
+    "Productivity": 390.4,
+    "Pay": 242.5
+  },
+  {
+    "Year": "2023q1",
+    "Productivity": 391.8,
+    "Pay": 243.5
+  },
+  {
+    "Year": "2023q2",
+    "Productivity": 393.2,
+    "Pay": 245.1
+  },
+  {
+    "Year": "2023q3",
+    "Productivity": 398.2,
+    "Pay": 246
+  },
+  {
+    "Year": "2023q4",
+    "Productivity": 400.3,
+    "Pay": 247.2
+  },
+  {
+    "Year": "2024q1",
+    "Productivity": 400.9,
+    "Pay": 247.9
+  },
+  {
+    "Year": "2024q2",
+    "Productivity": 403.9,
+    "Pay": 248.8
+  },
+  {
+    "Year": "2024q3",
+    "Productivity": 406.4,
+    "Pay": 250.8
+  },
+  {
+    "Year": "2024q4",
+    "Productivity": 407.4,
+    "Pay": 251.2
+  },
+  {
+    "Year": "2025q1",
+    "Productivity": 406.8,
+    "Pay": 251.9
+  },
+  {
+    "Year": "2025q2",
+    "Productivity": 410.9,
+    "Pay": 253.5
+  },
+  {
+    "Year": "2025q3",
+    "Productivity": 414.8,
+    "Pay": 253.7
+  },
+  {
+    "Year": "2025q4",
+    "Productivity": 417.2,
+    "Pay": 254.8
+  }
+]

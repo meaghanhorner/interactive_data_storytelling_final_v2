@@ -1,0 +1,447 @@
+[
+  {
+    "category": "Identity Theft",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Internet Services",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Health Care",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Investment Related",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Education",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2017,
+    "indexed": 100
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2018,
+    "indexed": 119.8191
+  },
+  {
+    "category": "Internet Services",
+    "year": 2018,
+    "indexed": 139.5826
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2018,
+    "indexed": 112.5495
+  },
+  {
+    "category": "Health Care",
+    "year": 2018,
+    "indexed": 171.4027
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2018,
+    "indexed": 127.3491
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2018,
+    "indexed": 131.3699
+  },
+  {
+    "category": "Investment Related",
+    "year": 2018,
+    "indexed": 98.7068
+  },
+  {
+    "category": "Education",
+    "year": 2018,
+    "indexed": 182.8007
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2018,
+    "indexed": 111.8801
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2018,
+    "indexed": 117.4723
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2019,
+    "indexed": 175.3275
+  },
+  {
+    "category": "Internet Services",
+    "year": 2019,
+    "indexed": 174.8564
+  },
+  {
+    "category": "Health Care",
+    "year": 2019,
+    "indexed": 214.6059
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2019,
+    "indexed": 119.1996
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2019,
+    "indexed": 155.8345
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2019,
+    "indexed": 150.0314
+  },
+  {
+    "category": "Education",
+    "year": 2019,
+    "indexed": 262.9316
+  },
+  {
+    "category": "Investment Related",
+    "year": 2019,
+    "indexed": 110.8031
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2019,
+    "indexed": 118.1879
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2019,
+    "indexed": 91.5204
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2020,
+    "indexed": 373.9587
+  },
+  {
+    "category": "Internet Services",
+    "year": 2020,
+    "indexed": 311.4341
+  },
+  {
+    "category": "Health Care",
+    "year": 2020,
+    "indexed": 301.7787
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2020,
+    "indexed": 329.6263
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2020,
+    "indexed": 145.483
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2020,
+    "indexed": 309.8784
+  },
+  {
+    "category": "Education",
+    "year": 2020,
+    "indexed": 344.9108
+  },
+  {
+    "category": "Investment Related",
+    "year": 2020,
+    "indexed": 163.4525
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2020,
+    "indexed": 119.5475
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2020,
+    "indexed": 125.0068
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2021,
+    "indexed": 386.6415
+  },
+  {
+    "category": "Internet Services",
+    "year": 2021,
+    "indexed": 269.3212
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2021,
+    "indexed": 545.1158
+  },
+  {
+    "category": "Health Care",
+    "year": 2021,
+    "indexed": 324.6602
+  },
+  {
+    "category": "Investment Related",
+    "year": 2021,
+    "indexed": 523.8278
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2021,
+    "indexed": 143.4644
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2021,
+    "indexed": 242.0544
+  },
+  {
+    "category": "Education",
+    "year": 2021,
+    "indexed": 292.7737
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2021,
+    "indexed": 236.9107
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2021,
+    "indexed": 250.3376
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2022,
+    "indexed": 298.7673
+  },
+  {
+    "category": "Internet Services",
+    "year": 2022,
+    "indexed": 244.3594
+  },
+  {
+    "category": "Investment Related",
+    "year": 2022,
+    "indexed": 694.363
+  },
+  {
+    "category": "Health Care",
+    "year": 2022,
+    "indexed": 359.2552
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2022,
+    "indexed": 499.9424
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2022,
+    "indexed": 192.5046
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2022,
+    "indexed": 280.4752
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2022,
+    "indexed": 267.8814
+  },
+  {
+    "category": "Education",
+    "year": 2022,
+    "indexed": 252.7275
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2022,
+    "indexed": 268.9171
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2023,
+    "indexed": 279.4427
+  },
+  {
+    "category": "Internet Services",
+    "year": 2023,
+    "indexed": 277.4666
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2023,
+    "indexed": 578.367
+  },
+  {
+    "category": "Health Care",
+    "year": 2023,
+    "indexed": 396.4497
+  },
+  {
+    "category": "Investment Related",
+    "year": 2023,
+    "indexed": 714.2317
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2023,
+    "indexed": 247.3185
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2023,
+    "indexed": 291.7419
+  },
+  {
+    "category": "Education",
+    "year": 2023,
+    "indexed": 200.2439
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2023,
+    "indexed": 264.8933
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2024,
+    "indexed": 305.9581
+  },
+  {
+    "category": "Internet Services",
+    "year": 2024,
+    "indexed": 335.7772
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2024,
+    "indexed": 681.6633
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2024,
+    "indexed": 278.1721
+  },
+  {
+    "category": "Investment Related",
+    "year": 2024,
+    "indexed": 788.9117
+  },
+  {
+    "category": "Health Care",
+    "year": 2024,
+    "indexed": 417.4729
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2024,
+    "indexed": 262.0688
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2024,
+    "indexed": 380.6865
+  },
+  {
+    "category": "Education",
+    "year": 2024,
+    "indexed": 331.3182
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2024,
+    "indexed": 297.5695
+  },
+  {
+    "category": "Identity Theft",
+    "year": 2020,
+    "indexed": 373.9587
+  },
+  {
+    "category": "Internet Services",
+    "year": 2020,
+    "indexed": 311.4341
+  },
+  {
+    "category": "Health Care",
+    "year": 2020,
+    "indexed": 301.7787
+  },
+  {
+    "category": "Travel, Vacations and Timeshare Plans",
+    "year": 2020,
+    "indexed": 329.6263
+  },
+  {
+    "category": "Credit Cards",
+    "year": 2020,
+    "indexed": 145.483
+  },
+  {
+    "category": "Business and Job Opportunities",
+    "year": 2020,
+    "indexed": 309.8784
+  },
+  {
+    "category": "Education",
+    "year": 2020,
+    "indexed": 344.9108
+  },
+  {
+    "category": "Investment Related",
+    "year": 2020,
+    "indexed": 163.4525
+  },
+  {
+    "category": "Mortgage Foreclosure Relief and Debt Management",
+    "year": 2020,
+    "indexed": 119.5475
+  },
+  {
+    "category": "Charitable Solicitations",
+    "year": 2020,
+    "indexed": 125.0068
+  }
+]

@@ -1,0 +1,523 @@
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --dur: 750;
+  --color-profit:#278091;
+  --color-even: #6666aa;
+  --color-loss: #cc4435;
+  --color-subtext: #555;
+  --color-gridline: #eee;
+}
+
+body {
+  margin: 0 auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lora:ital,wght@0,400;1,400&family=DM+Mono:wght@400;500&family=Barlow+Condensed:wght@400;500&display=swap');
+/* Headlines & pull quotes */
+h1, h2, h3, h4, .pull-quote {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+h1 { font-size: 2.2rem; font-weight: 600; line-height: 1.15; }
+h2 { font-size: 2rem; font-weight: 400; font-style: italic; line-height: 1.4; }
+h4 {font-size: 1rem; font-weight: 400; font-style:italic; line-height: 1.3;}
+
+.pull-quote {
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.5;
+  border-left: 2px solid currentColor;
+  padding-left: 1.25rem;
+  margin: 2rem 0;
+}
+
+p, li, blockquote {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 900px;
+  margin:10px;
+  padding:10px;
+  
+}
+
+.card {
+  background: #fff;
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
+  margin: 10%;
+  padding: 10%;
+}
+
+p.card {
+  background: #fff;
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
+  margin: 2%;
+  padding: 2%;
+}
+
+h1.card {
+  background: #fff;
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
+  margin: 2%;
+  padding: 2%;
+}
+
+
+
+  .p-container {
+  max-width: 760px;
+  margin: 0 auto 2rem;
+}
+
+
+.kicker, .byline, .section-label, time {
+  font-family: 'DM Mono', monospace;
+  font-size: .85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+
+main {
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.curtain-container {
+  position: relative;
+}
+
+.page-behind {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  background: #f0eef5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  overflow:visible;
+}
+.chart-wrapper {
+  width: 100%;
+  padding: 20px;
+  max-width: 1400px;
+  display:block;
+}
+
+.chart-wrapper-productivity {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1rem;
+  box-sizing:border-box;
+}
+.page-front + .steps {
+  margin-top: 330vh; 
+  position: relative;
+  z-index: 3; 
+}
+
+
+.page-front {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 330vh;
+  z-index: 2;
+  background: #fff;
+  overflow-y: visible;
+  pointer-events: none;
+}
+
+.page-front-title {
+  position:relative;
+  background:#fff;
+  display: block;
+  z-index: 999;
+  width: 100%;
+  min-width: 600px;
+  text-align: center;
+  padding: 3rem 2rem 1.5rem;
+  flex-shrink:0;
+  pointer-events:auto;
+}
+
+.page-front-title h1 {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#content {
+  position: relative;
+  display: flex;
+}
+
+.sticky-container {
+  position: sticky;
+  top: 25vh;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+#sticky-top {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #fff;
+  padding: 0.75rem 0;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 2rem;
+}
+
+
+
+
+/* ── Full-width sections ── */
+.section-full {
+  width: 100%;
+  max-width:1400px;
+  margin:0 auto;
+  padding: 3rem 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #222;
+}
+
+/* ── Two-column scrollytelling sections ── */
+.section-scroll {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#headline {
+    width: 100%;
+    padding: 2rem;
+}
+
+
+
+.section-fullscreen-scroll {
+  position: relative;   /* ← steps scroll inside this */
+}
+
+#fullscreen-sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  overflow:visible;
+  z-index: 1;
+}
+
+#mlmChart {
+  display:flex;
+  flex-direction:column;
+  gap: 0.5rem;
+  font-family:sans-serif;
+}
+
+.steps {
+  width: 100%;
+  padding-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  pointer-events:none;
+}
+
+.steps p {
+  pointer-events:none;
+  background: transparent;
+}
+
+.steps p.card {
+  pointer-events: auto;
+  background: #fff;
+}
+
+.steps .card {
+  pointer-events: auto;
+}
+
+.step-hidden {
+  height: 100vh;
+  visibility: hidden;
+  z-index: 1;
+}
+
+
+.step {
+  height: 80vh;           /* each step takes most of a screen */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10vh 0;
+  z-index: 1;
+}
+
+.step p {
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 620px;
+}
+
+.step.is-active p {
+  border-color: steelblue;
+}
+
+/* steps scroll over the chart */
+.chart-steps {
+  position: relative;
+  z-index: 2;
+  pointer-events: none;      /* mouse falls through to chart */
+  padding-top: 20vh;
+  padding-bottom: 50vh;
+  padding-left: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-steps .step {
+  height: 80vh;
+  display: flex;
+  background: #fff;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  align-items: center;
+  pointer-events: none;
+}
+
+
+.chart-steps .step p {
+  pointer-events: auto;      /* white card catches events */
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  max-width: 300px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  font-family: 'Lora', serif;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.chart-spacer {
+  height: 1200px;
+  pointer-events: none;
+  display:block;
+  width: 100%
+}
+
+.container {
+  display: flex;
+}
+
+.left, .right {
+  width: 50%;
+}
+
+.chart-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 0.5rem;
+}
+
+.btn-zoom-out,
+.btn-zoom-in {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.85rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.btn-zoom-out:hover,
+.btn-zoom-in:hover {
+  background: #f0f0f0;
+}
+
+
+.layout-70-30 {
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+  flex:1;
+}
+
+
+.layout-50-50 {
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+  flex:1;
+}
+
+    .layout-50-50 .steps {
+  width: 45%; 
+}
+
+.layout-50-50 .sticky-container {
+  width: 50%;
+}
+
+
+.layout-70-30 .steps {
+  width: 35%; 
+}
+
+.layout-70-30 .sticky-container {
+  width: 60%; 
+}
+
+
+.sticky-container {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.graphic {
+  max-width: 80%;
+  height:auto;
+  padding: 1rem;
+}
+
+#chart-productivity {
+  width: 100%;
+  height: auto;
+  position: relative;
+  display: block;
+}
+
+#chart-productivity svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.graphic svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.graphic img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; 
+    object-position: center;
+}
+
+
+#chart-fraud-growth {
+  top:15vh;
+  z-index: 9 !important;
+  pointer-events: all !important;
+}
+
+/* Ensure the tooltip isn't hidden by display settings or colors */
+.chart-tooltip {
+  z-index: 999999 !important;
+  background-color: rgba(0, 0, 0, 0.95);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-size: 14px;
+  pointer-events: none; /* Crucial: ensures the tooltip doesn't trigger its own leave event */
+}
+
+.img-container {
+  width: 100%;
+  min-width: 0; 
+}
+
+.img-container img {
+  width: 100%;            
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* restore clicks on actual content inside */
+.page-front-title,
+.page-front .step p,
+.page-front .sticky-container {
+  pointer-events: auto;
+}
+
+.chart-with-caption {
+  display:flex;
+  flex-direction:column;
+  padding:0px;
+  margin:0px;
+  width:100%;
+}
+
+.chart-caption p {
+  margin-top: 0px;
+  font-family: 'DM Mono', monospace;
+  font-size:12px;
+  color:#999;
+  line-height:1.2;
+  margin-top:0.5rem;
+
+}
+
+.annotation {
+  font-size:16px;
+  color: #666;
+  font-style:italic;
+  font-family:'Playfair Display', Georgia, serif;
+}
+
+.steps.fraud-steps {
+  width:45%;
+  max-width: 600px;
+  margin-left:0;
+  margin-right:auto;
+  padding-left:5%;
+  padding-right:1rem;
+  box-sizing:border-box;
+}
+
+#block-chart-D {
+  padding:20px;
+}
