@@ -99,7 +99,8 @@ const svg = container
         .attr('fill', color)
         .attr('dx', '14px')
         .style('font-weight', 'bold')
-        .style('font-size', '16px')
+        .style('font-family', "'Barlow Condensed', sans-serif")
+        .style('font-size', '20px')
         .text(label);
     });
 
@@ -127,10 +128,10 @@ const svg = container
     
 
 
-    const tTextYear = svgTooltipG.append('text').attr('x', 10).attr('y', 22).style('font-weight', 'bold').style('font-size', '18px').style('fill', '#333');
-    const tTextProd = svgTooltipG.append('text').attr('x', 10).attr('y', 44).style('font-weight', 'bold').style('font-size', '16px').style('fill', '#278091');
-    const tTextPay  = svgTooltipG.append('text').attr('x', 10).attr('y', 66).style('font-weight', 'bold').style('font-size', '16px').style('fill', '#cc4435');
-    const tTextGap  = svgTooltipG.append('text').attr('x', 10).attr('y', 88).style('font-weight', 'bold').style('font-size', '16px').style('fill', '#1a1a1a');
+    const tTextYear = svgTooltipG.append('text').attr('x', 10).attr('y', 22).style('font-family', "'Barlow', sans-serif").style('font-size', '22px').style('fill', '#333');
+    const tTextProd = svgTooltipG.append('text').attr('x', 10).attr('y', 50).style('font-family', "'Barlow', sans-serif").style('font-size', '20px').style('fill', '#278091');
+    const tTextPay  = svgTooltipG.append('text').attr('x', 10).attr('y', 78).style('font-family', "'Barlow', sans-serif").style('font-size', '20px').style('fill', '#cc4435');
+    const tTextGap  = svgTooltipG.append('text').attr('x', 10).attr('y', 106).style('font-family', "'Barlow', sans-serif").style('font-size', '20px').style('fill', '#1a1a1a');
 
     // Invisible pointer overlay rect
     const pointerOverlay = svgGroup.append('rect')
@@ -516,7 +517,7 @@ function initChart(containerId, copy) {
   const loading    = block.querySelector('.loading');
   const controls   = block.querySelector('.controls');
 
-  const totalW = svgEl.getBoundingClientRect().width || 1400;
+  const totalW = svgEl.getBoundingClientRect().width || 1600;
   const innerW = totalW - margin.left - margin.right;
   const innerH = totalH - margin.top  - margin.bottom;
 
@@ -581,7 +582,7 @@ function initChart(containerId, copy) {
       .attr('y', d => y(d.value) - 6)
       .attr('opacity', 0)
       .attr('text-anchor', 'middle')
-      .style('font-size', '24px')
+      .style('font-size', '28px')
       .style('font-family', "'Barlow Condensed', sans-serif")
       .text(d => d.value + '%')
     .merge(barLabels)
@@ -674,7 +675,7 @@ Promise.all([
     .style('color',            '#000')
     .style('padding',          '8px 12px')
     .style('border-radius',    '4px')
-    .style('font-size',        '16px')
+    .style('font-size',        '22px')
     .style('z-index',          '99999')
     .style('pointer-events',   'none');
 
@@ -713,11 +714,11 @@ Promise.all([
       .text('Investment Scams, Business scams and Job-related scams have grown the most since 2017');
 
     svg.append('text').attr('x', fm.left).attr('y', 46)
-      .attr('font-size', '28px').attr('font-style', 'italic').attr('fill', '#666').attr('font-family', 'Playfair', 'Georgia', 'sans-serif')
+      .attr('font-size', '30px').attr('font-style', 'italic').attr('fill', '#666').attr('font-family', 'Playfair', 'Georgia', 'sans-serif')
       .text('Indexed growth · Hover any line to explore');
 
     svg.append('text').attr('x', fm.left).attr('y', 920)
-      .attr('font-size', '18px').attr('fill', '#999').attr('font-family', 'sans-serif')
+      .attr('font-size', '22px').attr('fill', '#999').attr('font-family', 'sans-serif')
       .text('Source: FTC Consumer Sentinel Network');
 
     const g           = svg.append('g').attr('transform', `translate(${fm.left},${fm.top})`);
@@ -732,11 +733,11 @@ Promise.all([
           .tickValues([2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024])
           .tickFormat(d3.format('d')).tickPadding(8)
       )
-      .style('font-size', '16px');
+      .style('font-size', '20px');
 
     g.append('g')
       .call(d3.axisLeft(yFraud).tickPadding(8).tickFormat(d => d === 0 ? '0%' : `+${d}%`))
-      .style('font-size', '16px');
+      .style('font-size', '20px');
 
     const line = d3.line()
       .x(d => xFraud(d.year))
@@ -766,6 +767,8 @@ Promise.all([
           const netGrowth = matchingPoint.indexed - 100;
           d3.select('.chart-tooltip')
             .style('visibility', 'visible')
+            .style('font-size', '14px')
+            .style('font-family', 'Barlow', 'sans-serif')
             .html(`<strong>${categoryName}</strong>
               <div style="margin-top:4px;">
                 Year: ${targetYear} —
@@ -801,7 +804,8 @@ Promise.all([
       .data(labelsData).enter().append('text')
       .attr('class', d => `line-label value label-id-${d.data[0].replace(/\s+/g, '')}`)
       .attr('fill', d => colorScale(d.data[0]))
-      .attr('font-size', '20px').attr('font-weight', '600')
+      .attr('font-size', '24px').attr('font-weight', '600')
+      .style('font-family', "'Barlow Condensed', sans-serif")
       .style('transition', 'opacity 0.4s ease')
       .attr('text-anchor', 'start').attr('dominant-baseline', 'middle')
       .attr('x', d => xFraud(d.data[1][d.data[1].length - 1].year) + 15)
@@ -811,7 +815,7 @@ Promise.all([
       parent.append('tspan').text(d => d.data[0]);
       parent.append('tspan')
         .attr('x', d => xFraud(d.data[1][d.data[1].length - 1].year) + 15)
-        .attr('dy', '1.2em').attr('font-size', '18px').attr('font-weight', '600')
+        .attr('dy', '1.2em').attr('font-size', '24px').attr('font-weight', '600').style('font-family', "'Barlow Condensed', sans-serif")
         .text(d => {
           const pts           = d.data[1];
           const totalNetGrowth = pts[pts.length - 1].indexed - pts[0].indexed;

@@ -494,7 +494,7 @@ main {
 .chart-caption p {
   margin-top: 0px;
   font-family: 'DM Mono', monospace;
-  font-size:12px;
+  font-size:14px;
   color:#999;
   line-height:1.2;
   margin-top:0.5rem;
@@ -502,7 +502,7 @@ main {
 }
 
 .annotation {
-  font-size:16px;
+  font-size:22px;
   color: #666;
   font-style:italic;
   font-family:'Playfair Display', Georgia, serif;
